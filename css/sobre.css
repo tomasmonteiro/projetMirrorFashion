@@ -1,0 +1,127 @@
+	
+	/*Cabeçalho da pagena - Inicio*/
+	.sacola {
+		background: url(../img/sacola.png) no-repeat top right;
+		font-size: 14px;
+		padding-right: 35px;
+		text-align: right;
+		width: 140px;
+		position: absolute;
+		top: 0;
+		right: 0;
+		
+	}
+	header{
+		position: relative;
+	}
+	.menu-opcoes{
+		position: absolute;
+		bottom: -16px;
+		right: 0px;
+	}
+	.menu-opcoes ul {
+		font-size: 15px;
+			
+	}
+	.menu-opcoes a {
+		color: #003366;
+	}
+	.menu-opcoes ul li{
+		display: inline;
+		margin-left: 20px;
+	}
+	.container{ /*Class responsavel pela sentralizacao dos conteudos na pagena*/
+		margin: 0 auto;
+		width: 940px; 
+	}
+	/*Cabeçalho da pagena - Fim*/	
+	
+	
+	.titulo {
+		background-image: url(../img/sobre-background.jpg);
+		padding: 10px;
+		
+		
+		/*position: fixed;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: -10px; Uma bagunça e tanto kkkkk
+		width: 940px;*/
+	}
+
+	#subtitulo_cab{
+		border-bottom: 2px solid #333333; /*Linha horizontal*/
+		padding-left: 1px; 
+		margin-top: 30px;
+		
+	}
+	
+	body{
+		
+		color: #333333;
+		font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+		/*background-image: url(../img/body-background.png);*/
+		
+		/*Bloco de codigo responsavel pelo posicionamento da pagena no centro*/
+		margin-left: auto;
+		margin-right: auto;
+		width: 940px;
+		
+	}
+	
+	#centro_de_distib{
+		background-color: #F2EDED;
+		border: 1px solid #ccc;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		width: 550px;
+		padding: 15px;
+		
+	}
+	#centro_de_distib caption {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	
+	#familia_pelho{
+		background-color: #F2EDED;
+		border: 1px solid #ccc;
+		text-align: center;
+		width: 550px;
+		padding-top: 15px;
+		
+		float: right; /*Flutuando a imagem no texto*/
+		margin: 0 0 10px 10px;
+		
+		
+	}
+	
+	#familia_pelho caption {
+		margin-top: 0px;
+		margin-bottom: 0px;
+		
+	}
+
+	
+	#rodape {
+		color: #777;
+		margin: 30px 0;
+		padding: 30px 0;
+	}
+	#rodape img {
+		margin-right: 30px;
+		vertical-align: middle;
+		width: 94px;
+	}
+	/*Tirar o sublinhado nos links*/
+	a {
+		text-decoration: none;
+		
+	}
+	p {
+		text-align: justify;
+	}
+
+	
+
