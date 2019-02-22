@@ -1,0 +1,90 @@
+/*......................................................................................*/
+/*...................................Pagena Autor.......................................*/
+/*......................................................................................*/
+*{
+	margin: 0;
+	bottom: 0;
+}
+body{
+	background-color: #fff;
+	margin-top: 2px;
+}
+.conteudo{
+	width: 940px;
+	margin: 0 auto;
+	
+}
+/*..............................Conteudo a esquerda............................*/
+.autor_conteudo{
+	background-color: #779397;
+	width: 278px;
+	height: 635px;
+	float: left;
+	font-size: 11px;
+	border-radius: 10px 0 0 0;
+	box-shadow: -5px -10px 8px #000;
+}
+.autor_conteudo{
+	text-align: center;
+	text-transform: uppercase;
+}
+.autor_conteudo hr{
+	width: 50%;
+	margin: 5px auto;
+	color: #fff;
+	
+}
+.autor_conteudo h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 22px;
+	font-weight: bold;
+	padding-bottom: 3px;
+}
+.imagem_perfil{
+	background-image: url("../img/tomas08.png");
+	background-position: 93% 100%;
+	background-size:150%;
+	margin: 10px auto;
+
+	border: 1px solid #fff;
+	border-radius: 360px;
+	width: 200px;
+	height: 200px;	
+
+}
+
+.imagem_perfil:hover{
+	background-size:200%;
+	background-position: 80% 0%;
+	border: 1px solid #fff;
+	
+}
+/*..............................Conteudo a direita.............................*/
+article{
+	color: #black;
+	background-color: #ddd;
+	width: 660px;
+	height: 635px;
+	float: right;
+	position: relative;
+
+	box-shadow: 0px -10px 8px #000;
+}
+
+.menu-opcoes{
+	position: absolute;
+	top: 30px;
+	right: 50px;
+}
+.menu-opcoes ul{
+	font-size: 15px;
+	margin-bottom: 0px;
+}
+.menu-opcoes a{
+	color: #003366;
+}
+.menu-opcoes ul li{
+	display: inline;
+	margin-left: 20px;
+}
