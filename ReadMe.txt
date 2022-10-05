@@ -5,3 +5,6 @@ Sou auto-didata, e tenho aprendido muitas tecnologias por meio disso. Não depen
 
 Esse projecto está sendo feito com base na minha aprendizagem de HTML5, CSS3 e JavaScript na apostila Desenvolvimento web com HTML5, CSS3 e JavaScript da Caelum, e nele aplico outros conhecimentos 
 adquiridos em outros locais.
+
+
+Link do projeto no GitHub Pages: https://tomasmonteiro.github.io/gabriel
