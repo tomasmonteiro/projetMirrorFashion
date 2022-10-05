@@ -7,4 +7,9 @@ Esse projecto está sendo feito com base na minha aprendizagem de HTML5, CSS3 e 
 adquiridos em outros locais.
 
 
+#PÁGINA INICIAL
+
+!.[Página Inicial].(https://github.com/tomasmonteiro/projetMirrorFashion/blob/master/img/Pagina_Inicial.PNG)
+
+
 Link do projeto no GitHub Pages: https://tomasmonteiro.github.io/gabriel
