@@ -7,7 +7,7 @@ Esse projecto está sendo feito com base na minha aprendizagem de HTML5, CSS3 e 
 adquiridos em outros locais.
 
 
-#PÁGINA INICIAL
+# PÁGINA INICIAL
 
 !.[Página Inicial].(https://github.com/tomasmonteiro/projetMirrorFashion/blob/master/img/Pagina_Inicial.PNG)
 
