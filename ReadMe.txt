@@ -1,4 +1,4 @@
-Olá!
+<h1>Olá!</h1>
 
 Sou Tomás Monteiro, este é o meu primeiro projecto web no github
 Sou auto-didata, e tenho aprendido muitas tecnologias por meio disso. Não dependo 100% da faculdade.
